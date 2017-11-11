@@ -1,0 +1,16 @@
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseLibrary\bin\Debug\MorseLibrary.dll
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseLibrary\bin\Debug\MorseLibrary.pdb
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseLibrary\obj\Debug\MorseLibrary.dll
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseLibrary\obj\Debug\MorseLibrary.pdb
+F:\MorseCode\MorseLibrary\bin\Debug\MorseLibrary.dll
+F:\MorseCode\MorseLibrary\bin\Debug\MorseLibrary.pdb
+F:\MorseCode\MorseLibrary\obj\Debug\MorseLibrary.csprojResolveAssemblyReference.cache
+F:\MorseCode\MorseLibrary\obj\Debug\MorseLibrary.csproj.CoreCompileInputs.cache
+F:\MorseCode\MorseLibrary\obj\Debug\MorseLibrary.dll
+F:\MorseCode\MorseLibrary\obj\Debug\MorseLibrary.pdb
+C:\Users\lukas\Source\Repos\morse-code-quiz-5ahif-JusterLuk\MorseLibrary\bin\Debug\MorseLibrary.dll
+C:\Users\lukas\Source\Repos\morse-code-quiz-5ahif-JusterLuk\MorseLibrary\bin\Debug\MorseLibrary.pdb
+C:\Users\lukas\Source\Repos\morse-code-quiz-5ahif-JusterLuk\MorseLibrary\obj\Debug\MorseLibrary.csprojResolveAssemblyReference.cache
+C:\Users\lukas\Source\Repos\morse-code-quiz-5ahif-JusterLuk\MorseLibrary\obj\Debug\MorseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Source\Repos\morse-code-quiz-5ahif-JusterLuk\MorseLibrary\obj\Debug\MorseLibrary.dll
+C:\Users\lukas\Source\Repos\morse-code-quiz-5ahif-JusterLuk\MorseLibrary\obj\Debug\MorseLibrary.pdb
